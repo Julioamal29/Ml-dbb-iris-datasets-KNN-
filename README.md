@@ -1,23 +1,19 @@
 # Ml-dbb-iris-datasets-KNN-
 
 Background problem
-Pada bagian ini silahkan bisa menjelaskan bancground problem yang ada pada project anda. Jelaskan Situation (problem2nya) dan juga berkaitan dengan Task (tujuan, goals, yang mau dicapai dan dikerjai). Dashboard memiliki jumlah memori yang besar dan juga datasetnya juga beasr, alhasil saya taruh pada link berikut : link_drive (opsional)
+Pada proyek ini, saya melakukan klasifikasi dataset Iris menggunakan algoritma K-Nearest Neighbors (KNN).
 
-Version Libraries
-pandas v1
-numpy v2
-seaborn v3
-dst
-Insight
-Pada project ini terdapat beberapa insight yang saya peroleh dari hasil analisa saya :
+Masalah yang Dihadapi
+Dataset Iris merupakan dataset klasik dalam machine learning yang berisi tiga jenis bunga Iris: Setosa, Versicolor, dan Virginica. Setiap bunga memiliki empat fitur utama, yaitu:
 
-insight A
-insight B
-insight c
-dst
-Advice
-Project ini masih bisa anda kembangkan ke ranah yang berkaitan dengan machine learning :
+Sepal length (panjang kelopak)
+Sepal width (lebar kelopak)
+Petal length (panjang mahkota)
+Petal width (lebar mahkota)
+Tantangan dalam proyek ini adalah mengembangkan model yang dapat mengklasifikasikan spesies bunga berdasarkan fitur-fiturnya secara akurat.
 
-saran A
-saran B
-saran C
+Tujuan yang Ingin Dicapai
+Mengolah dataset Iris agar siap digunakan untuk pelatihan model.
+Melatih model KNN (K-Nearest Neighbors) untuk klasifikasi bunga Iris.
+Mengevaluasi performa model menggunakan akurasi, confusion matrix, dan classification report.
+Menarik insight dari hasil evaluasi model.
